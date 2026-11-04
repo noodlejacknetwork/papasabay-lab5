@@ -21,6 +21,4 @@ PapaSabay Lab 5 - Mobile MVP (CC17 Project)
 The complete Kotlin source code is available in this repository under `MainActivity.kt`.
 
 ### Video Demonstration Link:
-You can watch the working features and UI walkthrough here:
-👉 [Google Drive Video Link 
-- PapaSabay Continuatio Demo]([[https://drive.google.com/drive/folders/1FYZlYsLbsrPjZwCiUII1QHDUYSJwJC0x?usp=sharing](https://drive.google.com/drive/folders/1opXyyS7fLM-YpqQgpckSei0uqFjtf1Cv?usp=sharing)]
+You can watch the working features and UI walkthrough here:👉 [Google Drive Video Link PapaSabay Continuatio Demo](https://drive.google.com/drive/folders/1opXyyS7fLM-YpqQgpckSei0uqFjtf1Cv?usp=sharing)
