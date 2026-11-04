@@ -8,12 +8,13 @@ PapaSabay Lab 5 - Mobile MVP (CC17 Project)
 - Llamado, Jewel Alexie D. 
 - Mesina, Ma. Julia Alain G.
 
-Feature 1 - Geofence restricted virtual queue entry
-Feature 2 - Route selection with cash fare calculation
-Feature 3 - Barangay route quota validation
-Feature 4 - Driver available seta adjuster
-Feature 5 - Commuter notification with driver ETA
-Feature 6 - QR code boarding pass and QR code scanner
+### The Features
+- Feature 1 - Geofence restricted virtual queue entry
+- Feature 2 - Route selection with cash fare calculation
+- Feature 3 - Barangay route quota validation
+- Feature 4 - Driver available seta adjuster
+- Feature 5 - Commuter notification with driver ETA
+- Feature 6 - QR code boarding pass and QR code scanner
 
 
 ### Source Code:
