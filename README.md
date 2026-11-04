@@ -16,9 +16,8 @@ PapaSabay Lab 5 - Mobile MVP (CC17 Project)
 - Feature 5 - Commuter notification with driver ETA
 - Feature 6 - QR code boarding pass and QR code scanner
 
-
 ### Source Code:
 The complete Kotlin source code is available in this repository under `MainActivity.kt`.
 
-### Video Demonstration Link:
-You can watch the working features and UI walkthrough here:👉 [Google Drive Video Link PapaSabay Continuatio Demo](https://drive.google.com/drive/folders/1opXyyS7fLM-YpqQgpckSei0uqFjtf1Cv?usp=sharing)
+### Video Lab 5 Feature Continuation Demo Link:
+You can watch the new added features and UI walkthrough here:👉 [Google Drive Video Link PapaSabay Continuatio Demo](https://drive.google.com/drive/folders/1opXyyS7fLM-YpqQgpckSei0uqFjtf1Cv?usp=sharing)
